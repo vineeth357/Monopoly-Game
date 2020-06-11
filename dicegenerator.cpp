@@ -6,6 +6,7 @@ using namespace std;
 
 int main() {
   while(true){
+    cout<<"A L J"
     cout<<"Enter 'r' to roll the dice : ";
     char dice;
     cin>>dice;
@@ -17,3 +18,4 @@ int main() {
     }
   }
 }
+
